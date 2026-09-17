@@ -136,7 +136,3 @@ No Windows PowerShell:
 .\mvnw.cmd test
 .\mvnw.cmd clean package
 ```
-
-## Observação sobre nomes
-
-O nome atual da exchange principal é `pedidos.v1.pedidod-criado`, conforme configurado nos três serviços. O trecho `pedidod` parece ser um erro de digitação, mas deve permanecer igual em todos os serviços até que seja alterado de forma coordenada.
